@@ -41,6 +41,7 @@ public class Practice_01 {
 						else
 						{
 							System.out.println("ddiyong~");
+							System.out.println();
 						}
 						
 					}
