@@ -42,6 +42,7 @@ public class Practice_01 {
 						{
 							System.out.println("ddiyong~");
 							System.out.println("왜안돼");
+							System.out.println("한숨밖에 안나온다.");
 						}
 						
 					}
